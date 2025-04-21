@@ -23,7 +23,7 @@ Once the backend is done search for results, the front end has the ability to re
 
 ## Screenshots
 Home page:
-![image alt]([https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/Restaurant%20Roulette%20Home%20Page.jpg?raw=true](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/images/Restaurant%20Roulette%20Home%20Page.jpg?raw=true))
+![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/images/Restaurant%20Roulette%20Home%20Page.jpg?raw=true)
 
 Sign up page:
 ![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/Signup%20Page.jpg?raw=true)
