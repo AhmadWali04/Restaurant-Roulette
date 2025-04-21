@@ -26,4 +26,4 @@ Home page:
 ![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/images/Restaurant%20Roulette%20Home%20Page.jpg?raw=true)
 
 Sign up page:
-![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/Signup%20Page.jpg?raw=true)
+![image alt]([https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/Signup%20Page.jpg?raw=true](https://github.com/AhmadWali04/Restaurant-Roulette/blob/c83388644a6261787d9789deab8ded4338961c45/Frontend/images/Signup%20Page.jpg))
