@@ -64,3 +64,8 @@ The database used was a relational database, with atleast 3NF normalization. Thi
 The choice to use a relational database structure stems from the choice to give all users a unique ID, which acts perfectly as a primary key for our list of dependencies.
 
 
+
+## Coding:
+The program uses two java files to interact with the database, RestaurantDatabase.java and UserDatabase.java 
+
+The program interacts using Java as we are able to directly push the object oriented attributes into the database. All queiries, to read from the database can be done with SQL on Supabase where the database is built.
