@@ -23,6 +23,9 @@ This repo holds all the database communication files for working with the Supaba
 4. favourites
  {userID, restaurantName, restaurantID}
 
+5. history
+{usierID, restaurantID, resturauntName}
+
 ## List of Dependencies
 {Table1} --Primary Key --> {Table2}
 
@@ -38,6 +41,13 @@ This repo holds all the database communication files for working with the Supaba
 
 {userTable} ---userID--> {favouritesTable}
 
+{userTable} ---userId--> {historyTable}
+
+
+#### Screenshot:
+
+![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/57dc1a99c5d701f35d58b60555cc596a00e9ea7d/Database/images/databaseDiagram.jpg)
+
 
 
 ### Explanation
@@ -52,6 +62,5 @@ The database used was a relational database, with atleast 3NF normalization. Thi
 3. Each non-key element is dependent on the primary key
 
 The choice to use a relational database structure stems from the choice to give all users a unique ID, which acts perfectly as a primary key for our list of dependencies.
-
 
 
