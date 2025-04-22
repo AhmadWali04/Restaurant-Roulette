@@ -18,12 +18,4 @@ After creating an account, users are allowed to set preferences and query for se
 
 Once the backend is done search for results, the front end has the ability to read from the database and display user history/favourites.
 
-
-
-
-## Screenshots
-Home page:
 ![image alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/images/Restaurant%20Roulette%20Home%20Page.jpg?raw=true)
-
-Sign up page:
-![image alt]([https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Frontend/Signup%20Page.jpg?raw=true](https://github.com/AhmadWali04/Restaurant-Roulette/blob/c83388644a6261787d9789deab8ded4338961c45/Frontend/images/Signup%20Page.jpg))
