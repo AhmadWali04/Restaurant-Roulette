@@ -47,9 +47,10 @@ This API helps us take the Longitutude/Latitude of the users, and serach for res
 ![image_alt](https://github.com/AhmadWali04/Restaurant-Roulette/blob/main/Backend/images/Full%20system%20overview.jpg?raw=true)
 
 ### Objects and Dependencies
-A diagram of all objects and their dependencies can be found here:
+Class Diagrams & System overview:
 [Click here](https://github.com/AhmadWali04/Restaurant-Roulette/blob/8779f1c25c2b4cc44cba3f1b4e9891e0c524e6c9/Backend/images/Full%20Architecture%20diagram.pdf)
 
 ### User caseses and responses
+Use Case diagrams: 
 [Click here](https://github.com/AhmadWali04/Restaurant-Roulette/blob/8779f1c25c2b4cc44cba3f1b4e9891e0c524e6c9/Backend/images/OOPAnalysis.pdf)
 
